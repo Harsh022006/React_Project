@@ -1,0 +1,151 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "harsh",
+      "email": "harsh1@gmail.com",
+      "password": "1234",
+      "status": "unblock"
+    },
+    {
+      "id": "2",
+      "name": "harshad",
+      "email": "harshad@gmail.com",
+      "password": "12345",
+      "status": "unblock"
+    },
+    {
+      "id": "3",
+      "name": "prem",
+      "email": "prem@gmail.com",
+      "password": "123456",
+      "status": "block"
+    },
+    {
+      "id": "1753710466793",
+      "name": "raaj",
+      "email": "raj@gmail.com",
+      "password": "142536",
+      "status": "unblock"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "admin2",
+      "email": "admin2@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "room": [
+    {
+      "id": "1",
+      "title": "AC rooms",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/02/7b/45/77/deluxe-a-c-room.jpg",
+      "price": "$540/night",
+      "bed": "5",
+      "Bath": "8",
+      "desc": "This is the best Ac room of the hotel 2"
+    },
+    {
+      "id": "2",
+      "title": "luxury rooms",
+      "img": "https://vishwakarmainteriors.com/wp-content/uploads/2022/08/Model-Town_E-3-9_GF_Rear-RHS-Bedroom-01111-1024x640.jpg",
+      "price": "$200/night",
+      "bed": "3",
+      "Bath": "5",
+      "desc": "This is the best luxury room in this hotel \n"
+    },
+    {
+      "id": "3",
+      "title": "Best halls and balcony",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoTaIUdUMp3dNdT1wzechSvUCbfRICZT2xGQ&s",
+      "price": "$200/day",
+      "bed": "2",
+      "Bath": "4",
+      "desc": "This is the best hall and balcony view in this hotel 4"
+    }
+  ],
+  "about": [
+    {
+      "id": "1",
+      "title": "Hotel Entrence",
+      "desc": "this is the Entrence",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPncuyejY5HtU4irq_SvGC2deXxfu_lSXnw&s"
+    },
+    {
+      "id": "2",
+      "title": "Tarrace",
+      "desc": "This is Terrace view",
+      "img": "https://i.pinimg.com/236x/61/c6/33/61c633c4e3a559f20726d6b25e4b6b6c.jpg"
+    },
+    {
+      "id": "1751440848410",
+      "title": "Our Receptions",
+      "img": "https://tse2.mm.bing.net/th/id/OIP.Hj8W3BBCMFR6i6eIjg8I-wHaFK?pid=Api&P=0&h=180",
+      "desc": "We try to give you best experience and service"
+    }
+  ],
+  "service": [
+    {
+      "id": "1",
+      "title": "luxurious rooms",
+      "desc": "we provide luxurious and AC rooms with low cost ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTr49PytbAKZs_hrqEyDGcViUv_kvN4FQeMw&s"
+    },
+    {
+      "id": "2",
+      "title": "dining side",
+      "desc": "our chef make a delicious and healthy food ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDrj7LILoIM3zB0GnyjBQtAy-WPM6hjF0zA&s"
+    },
+    {
+      "id": "3",
+      "title": "chill area",
+      "desc": "chilling area for long waik, gaming side and swimming pool ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OHmuHTYx_JPNGx-3dsvoP_rWuYPWUZVGow&s"
+    }
+  ],
+  "team": [
+    {
+      "id": "1",
+      "name": "kisssu",
+      "manager": "booking management",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjekLGStZytCNmjfFqeKd0Z6Lc4BymDpj9Jg&s"
+    },
+    {
+      "id": "2",
+      "name": "khushal",
+      "manager": "finanace management",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgF9EvspaL2r7vPYY1CrlM_9q2IBh78F5VZg&s"
+    },
+    {
+      "id": "3",
+      "name": "kartik",
+      "manager": "area management",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTjVuwjLQOKuNndtMs03o6YTUF4KFUdlnlQ&s"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "name": "dipesh",
+      "profession": "investor",
+      "review": "A truly delightful stay—spotless rooms, friendly staff, and every detail taken care of with care and professionalism.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpBJeOeRoMMmig98EuUG9jUVjVdivz7tpJxQ&s"
+    },
+    {
+      "id": "2",
+      "name": "karan",
+      "profession": "doctor",
+      "review": "Beautiful location, excellent hospitality, and delicious breakfast every morning made our trip unforgettable.",
+      "img": "https://www.shutterstock.com/image-photo/passport-photo-man-on-white-260nw-2538513719.jpg"
+    }
+  ]
+}
