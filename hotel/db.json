@@ -27,6 +27,13 @@
       "email": "raj@gmail.com",
       "password": "142536",
       "status": "unblock"
+    },
+    {
+      "id": "1754821424840",
+      "name": "khushalbaghel0802@gmail.com",
+      "email": "khushalbaghel0802@gmail.com",
+      "password": "khushalbaghel0802@gmail.com",
+      "status": "unblock"
     }
   ],
   "admin": [
